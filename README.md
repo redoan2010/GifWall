@@ -31,6 +31,7 @@ I wanted animated wallpapers without the baggage. Most tools need a big separate
 - **Very light on CPU and RAM.** It stays out of the way so your PC keeps its performance.
 - **Gets out of your game's way.** It pauses automatically when a fullscreen app or game is running.
 
+<!-- PREVIEW: uncomment after adding assets/demo.gif and assets/screenshot.png
 ## Preview
 
 <p align="center">
@@ -40,6 +41,7 @@ I wanted animated wallpapers without the baggage. Most tools need a big separate
 <p align="center">
   <img src="assets/screenshot.png" alt="GifWall settings window" width="60%">
 </p>
+-->
 
 ## Download (no Python needed)
 
